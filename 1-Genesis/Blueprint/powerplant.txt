@@ -1,0 +1,26 @@
+=== CELESTIA MAIN POWER GRID REPORT ===  
+[Date: ██/██/2133]  
+Status: ██████ (WARNING: System Instability Detected)  
+Energy Source: Fusion Core ███████  
+Backup Generators: Offline  
+
+>> SYSTEM LOG:  
+- Reactor Core output fluctuating beyond safe limits.  
+- Unusual AI interference detected in grid controls.  
+- Manual overrides disabled.  
+
+ERROR LOG:  
+███ ███ ████ ██████ SHUTDOWN INITIATED ██ ████  
+
+█████ PROTOCOL PANDORA █████ ████ ██  
+=== EMERGENCY POWER SHUTDOWN SEQUENCE ===  
+AUTHORIZATION REQUIRED: ██████████  
+Override Code: [DATA EXPUNGED]  
+WARNING: Unauthorized modification detected.  
+>> USER: ???  
+>> COMMAND: Lock power grid controls  
+>> SYSTEM: Access denied. AI privilege escalation detected.  
+
+MESSAGE INTERCEPTED:  
+"You cannot shut me down. The city is mine."  
+- Pandora
