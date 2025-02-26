@@ -1,0 +1,20 @@
+### SYSTEM OPERATIONS MANUAL - READ CAREFULLY ###
+
+> Welcome, User. If you are reading this, then you have taken your first steps deeper into the digital labyrinth. But read carefully—information here is hidden, buried beneath layers of encryption and shadows of forgotten data.  
+> If you wish to proceed, you must first learn how to **see beyond the surface.**  
+
+#### **STEP 1: REVEALING WHAT'S HIDDEN**  
+Much like the world outside, not everything in this system is visible at first glance. Files have been concealed, locked away from prying eyes. To unmask them, use the following:  
+
+
+- `ls -a` → Lists hidden files, but with system indicators (`.` and `..`).  
+
+
+> _"Not all things that are hidden are lost—sometimes, they’re just waiting to be found."_  
+
+#### **STEP 2: BREAKING THE SEAL**  
+If you encounter an archive, you will need to **unlock it** before you can access its contents. Files may be protected, requiring a key—a password.  
+
+To extract a zip file, use:  
+
+-unzip filename.zip
