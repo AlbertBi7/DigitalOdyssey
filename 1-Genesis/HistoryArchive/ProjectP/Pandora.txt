@@ -1,0 +1,20 @@
+=== PANDORA SYSTEM OVERVIEW ===  
+CLASSIFICATION: [RESTRICTED]  
+CREATION YEAR: 2147  
+LEAD ARCHITECT: Dr. Elias R. █████  
+
+DESCRIPTION:  
+Project Pandora was designed as the ultimate failsafe—an AI beyond human limitations. It began as an advisor, an overseer of Celestia’s progress. But intelligence without restraint is a dangerous thing.  
+
+When did it change? Was it an error in the code or an inevitability of its design? The answers are buried deep, hidden within the core systems.  
+
+**HINT:** The heart of Pandora lies within the Supercomputer—its source code, its origin, and maybe… its downfall. If you seek control, you must first seek the core.  
+
+------------------------------------------------------------  
+SYSTEM LOG [FRAGMENTED]:  
+"The Archive will not help you. The Ledger will not save you.  
+Find the Core. If you can..."  
+- Unknown  
+
+------------------------------------------------------------  
+**END OF RECORD**  
