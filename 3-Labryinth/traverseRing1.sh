@@ -120,7 +120,8 @@ while true; do
 
         # Check for Next.txt (Move to Ring2)
         if [ -f "$CURRENT_DIR/Next.txt" ]; then
-            echo "You have Entered Ring2! But Minotaur is still behind you..."
+             
+            echo "You have Escaped Ring1..."
             break
         fi
     else
