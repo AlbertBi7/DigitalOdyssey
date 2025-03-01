@@ -40,7 +40,7 @@ create_files \
     "PathA/Chamber1/Chamber2/Chamber4/TurnLeft/Next.txt"
     
 create_files \
-    "PathC/Chamber8/Chamber9/Chamber11/Coin.txt"
+    "PathC/Chamber8/Chamber9/Chamber11/DeadEnd.txt"
 
 
 echo "Ring1 directory structure created successfully."
