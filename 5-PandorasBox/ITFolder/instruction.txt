@@ -1,0 +1,17 @@
+/*### SYSTEM OPERATIONS MANUAL - READ CAREFULLY ###
+
+Welcome, User. If you are reading this, then you have stepped into Pandora’s Vault. The locks ahead are not mere barriers; they are tests of your ability to decipher, to break the codes that bind them. To proceed, you must master the art of decryption. Learn these methods well—they are your only way forward.
+
+STEP 1: CAESAR SHIFT
+
+Some messages are shifted, twisted by a pattern known only to those who can see it. If you suspect a message has been altered by rotation, use the following command to shift it back:
+
+~ < cat filename.txt | tr 'F-ZA-Ef-za-e' 'A-Za-z' > → This example shifts letters back by 5 places.
+
+"The past is merely the present, rewritten in another script."
+
+STEP 2: BASE64 
+
+There exist messages hidden in plain sight, encoded in a way that transforms readable text into seemingly random strings. To decode such a transformation, use:
+
+~ < base64 -d filename.txt >
