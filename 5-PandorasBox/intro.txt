@@ -1,0 +1,21 @@
+SYSTEM OVERRIDE DETECTED...
+UNAUTHORIZED ACCESS ATTEMPT LOGGED...
+INITIATING SECURITY PROTOCOLS...
+
+[ERROR OVERRIDDEN] 
+[ACCESS GRANTED]
+
+
+Welcome, Intruder.  
+You stand before Pandora’s Vault—its secrets buried behind layers of 
+encryption. Three locks hold the gate shut. Each more complex than the last.
+  
+These locks are not ordinary. They are written in codes that only the keenest minds can break.  
+Crack the first lock, and the second will reveal itself.  
+Break them all… and the Vault will surrender its final secret.  
+
+But be warned.  
+Every failed attempt tightens security.  
+Too many mistakes… and the Vault will remain sealed forever.  
+
+YOUR FIRST TASK-->Find The ITFolder
