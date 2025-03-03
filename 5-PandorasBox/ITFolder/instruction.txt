@@ -6,7 +6,7 @@ STEP 1: CAESAR SHIFT
 
 Some messages are shifted, twisted by a pattern known only to those who can see it. If you suspect a message has been altered by rotation, use the following command to shift it back:
 
-~ < cat filename.txt | tr 'F-ZA-Ef-za-e' 'A-Za-z' > → This example shifts letters back by 5 places.
+~  cat filename.txt | tr 'F-ZA-Ef-za-e' 'A-Za-z' → This example shifts letters back by 5 places.
 
 "The past is merely the present, rewritten in another script."
 
@@ -14,13 +14,13 @@ STEP 2: BASE64
 
 There exist messages hidden in plain sight, encoded in a way that transforms readable text into seemingly random strings. To decode such a transformation, use:
 
-~ < base64 -d filename.txt >
+~  base64 -d filename.txt 
 
 STEP 3: XOR
 
 Some secrets are concealed not by shifting letters, but by logical manipulation. If you suspect a message is encoded by bitwise operations, you must reverse the process using:
 
-~ < cat filename.txt | tr '\0-\377' '\377-\0' >
+~  cat filename.txt | tr '\0-\377' '\377-\0' 
 
 
 Now Try The Challenges in VaultEntrance .....
