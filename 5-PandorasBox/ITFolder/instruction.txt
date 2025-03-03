@@ -16,11 +16,11 @@ There exist messages hidden in plain sight, encoded in a way that transforms rea
 
 ~  base64 -d filename.txt 
 
-STEP 3: XOR
+STEP 3: HEX
 
-Some secrets are concealed not by shifting letters, but by logical manipulation. If you suspect a message is encoded by bitwise operations, you must reverse the process using:
+Some secrets are concealed not by shifting letters, but by hex manipulation. If you suspect a message is encoded by hex, you must reverse the process using:
 
-~  cat filename.txt | tr '\0-\377' '\377-\0' 
+~  xxd -p -r filename.txt 
 
 
 Now Try The Challenges in VaultEntrance .....
