@@ -20,7 +20,7 @@ STEP 3: XOR
 
 Some secrets are concealed not by shifting letters, but by logical manipulation. If you suspect a message is encoded by bitwise operations, you must reverse the process using:
 
-~ < cat encrypted.txt | tr '\0-\377' '\377-\0' >
+~ < cat filename.txt | tr '\0-\377' '\377-\0' >
 
 
 Now Try The Challenges in VaultEntrance .....
